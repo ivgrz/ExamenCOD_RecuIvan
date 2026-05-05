@@ -8,3 +8,6 @@
 ![Cambio_rama_datos.png](imagenes/Cambio_rama_datos.png)
 ![cambio_rama_interface.png](imagenes/cambio_rama_interface.png)
 
+### Guardamos el commit de ambas ramas
+![commits_guardados.png](imagenes/commits_guardados.png)
+
