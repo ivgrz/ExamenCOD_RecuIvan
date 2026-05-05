@@ -10,5 +10,6 @@ public class Main {
         // Imprime un mensaje
         System.out.println("Hola Examen!");
         System.out.println("Realizando el examen...");
+        System.out.println("Examen terminado...");
     }
 }
