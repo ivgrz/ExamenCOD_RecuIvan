@@ -11,3 +11,6 @@
 ### Guardamos el commit de ambas ramas
 ![commits_guardados.png](imagenes/commits_guardados.png)
 
+### Realizamos el push de ambos commits para actualizar las ramas 
+![push_ramas.png](imagenes/push_ramas.png)
+
